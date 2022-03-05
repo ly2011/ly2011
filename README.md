@@ -1,5 +1,5 @@
 <div align="center">
-  <p><img src="avatar.jpeg" style="heigth: 200px; border-radius: 100%;" /></p>
+  <p><img src="avatar.jpeg" height="200" /></p>
   <p>嗨！ 我是 win👋, 一个光吃不胖的大叔。</p>
   <p>
     <img src="https://img.shields.io/github/followers/ly2011" />
