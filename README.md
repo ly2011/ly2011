@@ -1,12 +1,12 @@
 <div align="center">
-  <p>嗨！ 我是 win👋, 一个光吃不胖的大叔。</p>
-  <p>
-    <img src="https://github-profile-trophy.vercel.app/?username=ly2011&column=7&theme=onedark"/>
-  </p>
   <p>
     <img src="https://img.shields.io/github/followers/ly2011" />
     <img src="https://img.shields.io/github/stars/ly2011">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=ly2011.ly2011.README.md" />
+  </p>
+  <p>嗨！ 我是 win👋, 一个光吃不胖的大叔。</p>
+  <p>
+    <img src="https://github-profile-trophy.vercel.app/?username=ly2011&column=7&theme=onedark"/>
   </p>
   <p>
     <img
